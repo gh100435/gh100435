@@ -54,6 +54,7 @@ And i interested in information management and data flow in real world.
 
 ### AI
 
+* Web3, Ontology
 * LocalLLM, MCP, langchain
 * Machine learning, Deep learning
 * python, Pytorch, Scikit-learn, Yolo
@@ -83,6 +84,7 @@ And i interested in information management and data flow in real world.
 
 ### IT Infra
 
+* Web3, Markdown based information enviroment
 * Docker, Vercel, Cloudflare, Supabase
 * AWS, Naver Cloud, Cafe24, NHN Cloud 
 * Home server, Network switches, Home lab
