@@ -48,7 +48,7 @@ I currently work in system integration.
 
 * React, Flutter
 * Winform
-* TUI
+* Electron
 
 ### AI
 
