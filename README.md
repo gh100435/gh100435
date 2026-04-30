@@ -24,6 +24,12 @@ which has shaped my ability to think critically and approach problems from a dee
 
 I currently work in system integration.
 
+And i interested in information management and data flow in real world.
+
+### 📌 Goal
+
+> **My goal is intergrate systems. that are impactful in the real world.**
+
 ## 🧑‍💻 About Me
 
 * 🌱 Currently learning: Vibe coding, Electrical and Electronic Engineering
@@ -83,12 +89,3 @@ I currently work in system integration.
 ## 📊 GitHub Stats
 
 \
-
-## 🧠 What I Focus On
-
-* Information management and data flow in real world.
-* Interested in practical applications of AI in the real world
-
-## 📌 Goal
-
-> **My goal is intergrate systems. that are impactful in the real world.**
