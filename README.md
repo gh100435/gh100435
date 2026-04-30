@@ -6,7 +6,7 @@
 
 ## 🧠 Philosophy
 
-I am an aspiring developer who is interested not only in building software,
+I am an aspiring human who is interested not only in building software,
 but in understanding how systems are designed, integrated, and operated.
 
 I believe technology is merely a tool —
