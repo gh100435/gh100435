@@ -58,7 +58,7 @@ I currently work in system integration.
 * Orcale, PostgreSQL, MongoDB
 * Elastic, Pgvector
 
-### GameDev
+### Game Development
 
 * Unity, Blender, Godot Engine
 * C#, C++, Rust
