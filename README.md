@@ -84,6 +84,7 @@ And i interested in information management and data flow in real world.
 
 ### IT Infra
 
+* MSA, SOA
 * Linux, Unix
 * Web3, Markdown based information enviroment
 * Docker, Vercel, Cloudflare, Supabase
