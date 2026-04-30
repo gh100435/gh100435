@@ -42,7 +42,9 @@ And i interested in information management and data flow in real world.
 ### Backend
 
 * Java, Spring, Spring Boot, EgovFramework, Spring AI
-* Nodejs, Flask, FastAPI
+* Nodejs
+* Django, Flask, FastAPI
+* PHP, Web/Was
 
 ### Frontend
 
