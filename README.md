@@ -66,6 +66,13 @@ I currently work in system integration.
 * Inventor, AutoCAD
 * Slicing, Print optimization
 
+### Robotices
+
+* PID control, Feedback systems
+* Sensor integration, Signal processing
+* Embedded systems
+* Robot system integration
+
 ### IT Infra
 
 * Docker, Vercel, Cloudflare, Supabase
