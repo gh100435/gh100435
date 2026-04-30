@@ -84,7 +84,7 @@ And i interested in information management and data flow in real world.
 
 ### IT Infra
 
-* Linux, Debian linux
+* Linux, Unix
 * Web3, Markdown based information enviroment
 * Docker, Vercel, Cloudflare, Supabase
 * AWS, Naver Cloud, Cafe24, NHN Cloud 
