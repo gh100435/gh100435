@@ -66,7 +66,7 @@ I currently work in system integration.
 * Inventor, AutoCAD
 * Slicing, Print optimization
 
-### Robotices
+### Robotics
 
 * PID control, Feedback systems
 * Sensor integration, Signal processing
