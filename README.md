@@ -86,7 +86,7 @@ And i interested in information management and data flow in real world.
 
 * MSA, SOA
 * Linux, Unix
-* Web3, Markdown based information enviroment
+* Markdown based information serving
 * Docker, Vercel, Cloudflare, Supabase
 * AWS, Naver Cloud, Cafe24, NHN Cloud 
 * Home server, Network switches, Home lab
