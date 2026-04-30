@@ -28,7 +28,7 @@ And i interested in information management and data flow in real world.
 
 ### 📌 Goal
 
-**My goal is build and intergrate AI & Robotics systems. that are impactful in the real world.**
+**My goal is build and intergrate AI & Robotics systems. that are effective in the real world.**
 
 ## 🧑‍💻 About Me
 
