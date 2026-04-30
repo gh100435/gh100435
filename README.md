@@ -52,8 +52,9 @@ I currently work in system integration.
 
 ### AI
 
-* LocalLLM, MCP, Langchain
-* Python, Pytorch, Scikit-learn, Yolo
+* LocalLLM, MCP, langchain
+* Machine learning, Deep learning
+* python, Pytorch, Scikit-learn, Yolo
 
 ### Database
 
@@ -65,10 +66,11 @@ I currently work in system integration.
 * Unity, Blender, Godot Engine
 * C#, C++, Rust
 
-### 3D Modeling
+### 3D Modeling, Printing
 
-* Inventor, AutoCAD
 * Blender
+* Inventor, AutoCAD
+* Slicing, Print optimization
 
 ### IT Infra
 
