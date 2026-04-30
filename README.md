@@ -22,7 +22,9 @@ which has shaped my ability to think critically and approach problems from a dee
 
 I currently work in system integration.
 
-> **I focus on fundamentals rather than appearances.**
+> 1. **I focus on fundamentals rather than appearances.**
+> 2. **I focus on simplicity facts.**
+> 3. **I am also studying philosophy, engineering.**
 
 ---
 
