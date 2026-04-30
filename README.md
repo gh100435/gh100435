@@ -73,12 +73,9 @@ I currently work in system integration.
 ### IT Infra
 
 * Docker, Vercel, Cloudflare, Supabase
-* AWS, Naver Cloud, Cafe24, NHN Cloud
-
-### Blockchain
-
-* Exploring blockchain fundamentals (Ethereum, smart contracts)
-* Blockchain Network (E2)
+* AWS, Naver Cloud, Cafe24, NHN Cloud 
+* Home server, Network switches, Home lab
+* Ethereum, smart contracts, Blockchain Network (E2)
 
 
 ## 📊 GitHub Stats
