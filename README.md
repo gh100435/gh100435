@@ -95,4 +95,4 @@ I currently work in system integration.
 
 ## 📌 Goal
 
-> **My goal intergrate systems that are impactful in the real world.**
+> **My goal is intergrate systems. that are impactful in the real world.**
