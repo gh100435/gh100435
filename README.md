@@ -6,6 +6,8 @@
 
 ## 🧠 Philosophy
 
+> ** Working facts -> Design **
+
 I am an aspiring human who is interested not only in building software,
 but in understanding how systems are designed, integrated, and operated.
 
@@ -16,8 +18,6 @@ what truly matters is choosing the right approach to solve problems.
 
 I am particularly interested in how unstructured information managed and flows within systems,
 and I strive to understand its fundamental nature.
-
-> **I focus on simplicity facts.**
 
 I also studing philosophy, engineering,
 which has shaped my ability to think critically and approach problems from a deeper perspective.
