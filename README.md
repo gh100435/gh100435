@@ -67,7 +67,7 @@ And i interested in information management and data flow in real world.
 ### Game Development
 
 * Unity, Blender, Godot Engine
-* C#, C++, Rust
+* C#, C++
 
 ### 3D Modeling, Printing
 
